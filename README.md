@@ -1,1 +1,1 @@
-# talent-ai-platform
+# Talent AI Platform
